@@ -67,8 +67,16 @@ Responsibilities:
 - Shopify Apps
 - AI Image Enhancement Tools
 
+## ✨ Key Features
 
-
+- 🎨 Custom artist-focused store design
+- 🖼️ Professionally organized artwork collections
+- 🤖 AI-enhanced product images
+- 🧩 Custom Shopify Liquid sections
+- ⭐ Product review integration
+- ✍️ Brand-focused typography and visual identity
+- 📱 Fully responsive design
+- 🛒 Optimized shopping experience
 
 
 
