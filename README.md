@@ -18,3 +18,11 @@ The main objective of this project was to create a visually engaging Shopify sto
 - Improve product presentation and customer experience
 - Increase online sales through a dedicated Shopify store
 - Ensure a fully responsive shopping experience across all devices
+
+## ❗ Problem
+
+- The client relied mainly on Instagram for selling artwork
+- There was no dedicated platform to display the complete product collection
+- Some product images were not suitable for professional web presentation
+- The brand lacked a consistent online identity
+- Customers had limited information about the products before purchasing
