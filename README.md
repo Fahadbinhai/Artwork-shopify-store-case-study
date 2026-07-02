@@ -44,6 +44,19 @@ The main objective of this project was to create a visually engaging Shopify sto
 
 **Shopify Developer**
 
+Responsibilities:
+
+- Shopify theme customization
+- Custom Shopify Liquid section development
+- Store design and UI/UX implementation
+- Product collection setup
+- AI-assisted image enhancement and optimization
+- Typography and branding customization
+- Product review app integration
+- Content implementation
+- Responsive design optimization
+- Client training and website handover
+
 
 
 
