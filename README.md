@@ -1,2 +1,5 @@
 # Artwork-shopify-store-case-study
-A custom Shopify eCommerce store for an independent artist featuring theme customization, Liquid development, AI-enhanced product presentation, responsive design, and product review integration.
+
+## 📌 Project Title
+
+**Artist Portfolio & Shopify E-commerce Store – Custom Theme Development**
