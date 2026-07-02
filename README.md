@@ -26,3 +26,31 @@ The main objective of this project was to create a visually engaging Shopify sto
 - Some product images were not suitable for professional web presentation
 - The brand lacked a consistent online identity
 - Customers had limited information about the products before purchasing
+
+## 💡 Solution
+
+- Developed a custom Shopify eCommerce website tailored to the artist's brand
+- Organized artwork into professional product collections
+- Customized the website layout to match the artistic style and visual identity
+- Enhanced and optimized selected product images using AI before publishing
+- Customized Shopify sections using Liquid to improve product presentation
+- Selected typography and fonts that complemented the client's artwork and branding
+- Integrated a product review application to build customer trust
+- Added professional product-focused content throughout the website
+- Delivered a fully responsive design optimized for desktop, tablet, and mobile devices
+- Provided website maintenance guidance to help the client manage the store independently
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
