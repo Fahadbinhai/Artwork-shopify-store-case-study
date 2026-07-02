@@ -40,7 +40,9 @@ The main objective of this project was to create a visually engaging Shopify sto
 - Delivered a fully responsive design optimized for desktop, tablet, and mobile devices
 - Provided website maintenance guidance to help the client manage the store independently
 
+## 👨‍💻 My Role
 
+**Shopify Developer**
 
 
 
