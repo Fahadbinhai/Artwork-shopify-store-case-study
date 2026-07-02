@@ -88,6 +88,11 @@ The client can now showcase artwork collections professionally, manage products 
 
 [Visit Live Store](https://coloringfun4everyone.com/)
 
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](./screenshots/homepage.png)
 
 
 
