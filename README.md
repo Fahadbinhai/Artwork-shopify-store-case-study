@@ -57,7 +57,15 @@ Responsibilities:
 - Responsive design optimization
 - Client training and website handover
 
+## 🛠️ Tech Stack
 
+- Shopify
+- Shopify Liquid
+- HTML5
+- CSS3
+- JavaScript
+- Shopify Apps
+- AI Image Enhancement Tools
 
 
 
