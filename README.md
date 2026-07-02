@@ -92,7 +92,7 @@ The client can now showcase artwork collections professionally, manage products 
 
 ### Homepage
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](https://github.com/Fahadbinhai/Artwork-shopify-store-case-study/blob/08cc03220b334e08344afdec143eec30ab91338f/coloring%20fun%20final%20theme.png)
 
 
 
